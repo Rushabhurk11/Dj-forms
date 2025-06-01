@@ -26,3 +26,6 @@ typing-extensions==4.13.2
 uv==0.7.2
 wcwidth==0.2.13
 zipp==3.20.2
+Django>=3.0,<5.0
+gunicorn
+
